@@ -1,5 +1,7 @@
 <h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/josephzick/">Cybersecurity Professional</a></h1>
 
+🤔 I’m looking for help with finding my next role in IT Risk Management
+
 <h2>👨‍💻 Certifications</h2>
 
 - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/78d46e61-deee-4787-8a0e-acde35723232/linked_in_profile)
@@ -11,7 +13,11 @@
 
 <h2>Frameworks</h2>
 
-- 
+- FFIEC, NIST CSF, NIST 800-53, SOC 1, SOC 2, GDPR, PCI-DSS, ISO 27001/27002
+
+<h2>Software</h2>
+
+- RSA Archer, IBM OpenPages, ServiceNow, Jira, Confluence, Slack, Visio, Salesforce
 
 <h2> 🤳 Connect with me:</h2>
 
